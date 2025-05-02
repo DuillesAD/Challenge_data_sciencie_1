@@ -3,7 +3,7 @@
 
 ## 📌 Propósito da análise realizada
 
-O objetivo desta análise é entender o comportamento de vendas das lojas do Sr João "nome fictício". Foram examinados os dados de vendas realizadas, itens comprados, preferências por categorias de produtos. A análise fornece uma visão básica sobre o desempenho da loja.
+O objetivo desta análise é entender o comportamento de vendas das lojas do Sr João "nome fictício". Foram examinados os dados de vendas realizadas, itens comprados, preferências por categorias de produtos entre outros. A análise fornece uma visão básica sobre o desempenho da loja.
 
 ## 📂 Estrutura do projeto e organização dos arquivos
 
@@ -21,9 +21,9 @@ O notebook está estruturado da seguinte forma:
 3. **Vendas por categoria**
 4. **Média de avaliação das ljas**
 5. **Produto mais e menos vendido**
-6. **frete médio por loja**
+6. **Frete médio por loja**
 7. **Gráficos**
-8. **Relatório da análise **
+8. **Relatório da análise**
 
 ## 📊 Exemplos de gráficos
 
