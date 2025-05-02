@@ -31,7 +31,7 @@ O notebook está estruturado da seguinte forma:
 ![image](https://github.com/user-attachments/assets/1f3fa1b5-f253-43d3-af54-bcded8ef8586)
 
 - Gráfico de linha do frete médio por loja
- ![image](https://github.com/user-attachments/assets/8fd9547c-7371-49c8-bec8-16f36c9a2614)
+![image](https://github.com/user-attachments/assets/8fd9547c-7371-49c8-bec8-16f36c9a2614)
 
 - Gráficos de conversão de compra vs. visualização por categoria
 ![image](https://github.com/user-attachments/assets/d8c4f433-f419-4c93-b498-55c751fb0c4d)
