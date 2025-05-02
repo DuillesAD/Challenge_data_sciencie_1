@@ -32,7 +32,7 @@ Durante a análise foram gerados diversos gráficos com `matplotlib` e `seaborn`
   
 Exemplos de gráficos incluídos:
 - Gráfico de barras com o número de pedidos por categoria
-![image](https://github.com/user-attachments/assets/ee43bc55-8e5c-4a3d-8d54-d5eafc7bb2ce)
+<img scr ="https://github.com/user-attachments/assets/ee43bc55-8e5c-4a3d-8d54-d5eafc7bb2ce" alt= "Gráfico" width= "500"/>
 
 - Gráfico de comparação de taxas de abandono por tipo de dispositivo
 - Gráficos de conversão de compra vs. visualização por categoria
