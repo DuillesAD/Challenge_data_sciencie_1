@@ -39,19 +39,16 @@ O notebook está estruturado da seguinte forma:
 
 ## ⚙️ Instruções para executar o notebook
 
-1. Clone este repositório:
+1. Faça download deste repositório:
    ```bash
-   git clone https://github.com/seu-usuario/AluraStoreAnalysis.git
+   git clone [https://github.com/seu-usuario/AluraStoreAnalysis.git](https://github.com/DuillesAD/Challenge_data_sciencie_1/blob/efe475eb06279420908bff0ced79902c254b0b74/AluraStoreBr.ipynb)
    ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd AluraStoreAnalysis
    ```
-3. Instale os pacotes necessários (use um ambiente virtual, se preferir):
+2. Instale os pacotes necessários (use um ambiente virtual, se preferir):
    ```bash
    pip install pandas matplotlib seaborn
    ```
-4. Execute o notebook com Jupyter:
+3. Execute o notebook com Jupyter:
    ```bash
    Colab notebook AluraStoreBr.ipynb
    ```
