@@ -3,7 +3,7 @@
 
 ## 📌 Propósito da análise realizada
 
-O objetivo desta análise é entender o comportamento de vendas da loja virtual Alura Store. Foram examinados os dados de pedidos realizados, itens comprados, preferências por categorias de produtos e comportamento de compra por dispositivo (desktop ou mobile). A análise fornece insights valiosos sobre o desempenho da loja e o perfil dos consumidores.
+O objetivo desta análise é entender o comportamento de vendas das lojas do Sr João "nome fictício". Foram examinados os dados de vendas realizadas, itens comprados, preferências por categorias de produtos. A análise fornece uma visão básica sobre o desempenho da loja.
 
 ## 📂 Estrutura do projeto e organização dos arquivos
 
@@ -12,30 +12,30 @@ O objetivo desta análise é entender o comportamento de vendas da loja virtual 
 │
 ├── 📄 AluraStoreBr.ipynb       # Notebook com toda a análise exploratória
 ├── 📄 README.md                # Este arquivo explicativo
-└── 📁 dados                    # (opcional) Pasta para armazenar conjuntos de dados CSV, se houver
+└── 📁 dados                   
 ```
 
 O notebook está estruturado da seguinte forma:
 1. **Importação de bibliotecas e leitura dos dados**
-2. **Visualização básica do DataFrame**
-3. **Análise de categorias de produtos mais vendidos**
-4. **Comparação entre dispositivos (desktop vs mobile)**
-5. **Gráficos explicativos sobre comportamento de compra**
+2. **Análise de faturamento**
+3. **Vendas por categoria**
+4. **Média de avaliação das ljas**
+5. **Produto mais e menos vendido**
+6. **frete médio por loja**
+7. **Gráficos**
+8. **Relatório da análise **
 
-## 📊 Exemplos de gráficos e insights obtidos
+## 📊 Exemplos de gráficos
 
-Durante a análise foram gerados diversos gráficos com `matplotlib` e `seaborn`. Alguns insights relevantes incluem:
+- Gráfico de barras com faturamento por loja
+![image](https://github.com/user-attachments/assets/1f3fa1b5-f253-43d3-af54-bcded8ef8586)
 
-- 📈 **Categorias mais vendidas**: Cursos da categoria `Front-end` e `Data Science` lideram em número de pedidos.
-- 📉 **Taxa de abandono por dispositivo**: Dispositivos móveis apresentam maior abandono de carrinho em relação ao desktop.
-- 🛒 **Conversão por categoria**: Algumas categorias têm alta taxa de visualização, mas baixa conversão.
-  
-Exemplos de gráficos incluídos:
-- Gráfico de barras com o número de pedidos por categoria
-<img scr ="https://github.com/user-attachments/assets/ee43bc55-8e5c-4a3d-8d54-d5eafc7bb2ce" alt= "Gráfico" width= "500">
+- Gráfico de linha do frete médio por loja
+ ![image](https://github.com/user-attachments/assets/8fd9547c-7371-49c8-bec8-16f36c9a2614)
 
-- Gráfico de comparação de taxas de abandono por tipo de dispositivo
 - Gráficos de conversão de compra vs. visualização por categoria
+![image](https://github.com/user-attachments/assets/d8c4f433-f419-4c93-b498-55c751fb0c4d)
+
 
 ## ⚙️ Instruções para executar o notebook
 
